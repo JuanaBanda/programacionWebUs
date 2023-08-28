@@ -4,7 +4,7 @@
 ## Alumno: Juana Banda Mosqueda
 ## Profesor: Luis Fernando Villafaña Rejon
 
-### Intrucciones:
+### Instrucciones:
 1. Crear una pagina web basica
 2. Un título que diga "Mi Primera Página Web".
 3. Una breve descripción sobre ellos mismos o un tema de su elección.
